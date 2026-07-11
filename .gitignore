@@ -7,8 +7,4 @@ venv/
 
 outputs/
 history.csv
-
-saved_models/*.h5
-saved_models/*.keras
-
 .DS_Store
